@@ -14,5 +14,5 @@ I am a college student who is passionate for coding and an ML enthusiast.
 ![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["prs"])
 
 ![Follows](https://img.shields.io/github/followers/harshalstomp?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshalpatel14/](https://www.linkedin.com/in/harshalpatel14/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshalpatel14/)](https://www.linkedin.com/in/harshalpatel14/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshalpatel14799@gmail.com)](mailto:harshalpatel14799@gmail.com)
