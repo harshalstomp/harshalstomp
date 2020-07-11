@@ -8,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshalstomp.visitor-badge)
