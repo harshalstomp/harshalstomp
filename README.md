@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 
 ## My github Stats:
 
-[![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp)](https://github.com/anuraghazra/github-readme-stats)
+[![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["contribs","prs"])]
