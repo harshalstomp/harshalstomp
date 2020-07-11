@@ -13,4 +13,4 @@ I am a college student who is passionate for coding and an ML enthusiast.
 
 ![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["prs"])
 
-!(https://img.shields.io/github/followers/harshalstomp?style=social)
+[](https://img.shields.io/github/followers/harshalstomp?style=social)
