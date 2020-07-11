@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/harshalstomp/harshalstomp/issues)
 - ⚡ Fun fact: ...
 
-## My github Stats:
 
-[![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["contribs","prs"])]
+
+![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["prs"])
