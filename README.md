@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I am Harshal! 👋
+
+I am a passionate coder and an ML enthusiast. 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ML.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 💬 Ask me about anything [here](https://github.com/harshalstomp/harshalstomp/issues)
 - ⚡ Fun fact: ...
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshalstomp.visitor-badge)
+## My github Stats:
+
+[![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp)](https://github.com/anuraghazra/github-readme-stats)
