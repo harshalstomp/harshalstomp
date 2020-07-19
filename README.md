@@ -11,7 +11,8 @@ I am a college student who is passionate for coding and an ML enthusiast.
 
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshalstomp.visitor-badge)](https://github.com/harshalstomp)-->
 
-![Harshal's github stats](https://github-readme-stats.vercel.app/api?username=harshalstomp&show_icons=true&hide=["prs"])
+<img src="https://github-readme-stats.vercel.app/api?username=harshalstomp&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">
+
 
 ![Follows](https://img.shields.io/github/followers/harshalstomp?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshalpatel14/)](https://www.linkedin.com/in/harshalpatel14/)
