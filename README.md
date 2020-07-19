@@ -14,6 +14,11 @@ I am a college student who is passionate for coding and an ML enthusiast.
 <img src="https://github-readme-stats.vercel.app/api?username=harshalstomp&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">
 
 
+<a href="https://www.linkedin.com/in/harshalpatel14/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"></a>
+<a href="mailto:harshalpatel14799@gmail.com"><img src="https://img.icons8.com/color/30/gmail.png"></a>
+<a href="https://www.facebook.com/imharshalpatel/"><img src="https://img.icons8.com/color/30/facebook-new.png"></a>
+<a href="https://www.instagram.com/im_harshalpatel/"><img src="https://img.icons8.com/fluent/30/instagram-new.png"></a>
+
 ![Follows](https://img.shields.io/github/followers/harshalstomp?style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshalpatel14/)](https://www.linkedin.com/in/harshalpatel14/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshalpatel14799@gmail.com)](mailto:harshalpatel14799@gmail.com)
+
+
