@@ -5,7 +5,7 @@ I am a college student who is passionate for coding and an ML enthusiast.
 
 
 - 🌱 I’m currently learning ML.
-- 🔭 I’m currently working on my project PassCliq.
+- 🔭 I’m currently trying hard to get placed :P
 - 💬 Ask me about anything [here](https://github.com/harshalstomp/harshalstomp/issues)
 - ⚡ Quote: "A jack of all trades is a master of none, but oftentimes better than a master of one"- Meet Viktor Vicsek 
 
