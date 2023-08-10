@@ -8,7 +8,7 @@ I am a college student who is passionate about coding and an ML enthusiast.
 
 <!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshalstomp.visitor-badge)](https://github.com/harshalstomp)-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshalstomp&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=harshalstomp&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">-->
 
 
 <a href="https://www.linkedin.com/in/harshalpatel14/"><img src="https://img.icons8.com/color/30/000000/linkedin.png"></a>
